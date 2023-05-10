@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/WEBSite.iml" filepath="$PROJECT_DIR$/.idea/WEBSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Artify.iml" filepath="$PROJECT_DIR$/.idea/Artify.iml" />
     </modules>
   </component>
 </project>
