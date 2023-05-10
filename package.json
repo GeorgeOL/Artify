@@ -1,7 +1,7 @@
 {
   "name": "artify",
   "version": "1.0.0",
-  "description": "Andra's artwork website",
+  "description": "Andra's artwork",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
     "canvas",
     "paint",
     "artwork",
-    "pictures"
+    "picures"
   ],
   "author": "GeorgeOL, AndraB",
   "license": "ISC",
