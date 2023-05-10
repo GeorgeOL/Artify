@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/GeorgeOL/Artify/issues"
   },
-  "homepage": "https://github.com/GeorgeOL/Artify#readme"
+  "homepage": "https://github.com/GeorgeOL/Artify#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

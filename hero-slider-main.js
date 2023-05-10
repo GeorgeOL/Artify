@@ -1,3 +1,5 @@
+var _ = require('lodash');
+
 jQuery(document).ready(function($){
 	var slidesWrapper = $('.cd-hero-slider');
 
